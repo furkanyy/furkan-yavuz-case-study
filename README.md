@@ -46,6 +46,4 @@ mvn test -Dbrowser=chrome
 - `src/test/java/com/example/automation/tests/` - Test classes
 - `pom.xml` - Maven configuration
 
----
 
-Feel free to extend the framework or add more tests as needed! 
